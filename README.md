@@ -2,4 +2,3 @@ Welcome to “Imperial Nightmare”! You are an Imperial guardsman traveling bac
 
 To defeat him, first you must retrieve a MAP from the Cafeteria to help you navigate the spaceship. A HELMET from the War Room, ARMOR from the Armory, BOLTER AMMO from the Trophy Room, A GRENADE from the LAB, and a BOLTER GUN from the Captain’s Chambers. If you do not retrieve all these items, the Chaos Space Marine will be too powerful to defeat, and you and your guardsmen will never see home again.
 
-<img width="468" height="197" alt="image" src="https://github.com/user-attachments/assets/81753468-7c79-4876-8f8c-9ab17fb195de" />
