@@ -1,1 +1,5 @@
-# Python
+Welcome to “Imperial Nightmare”! You are an Imperial guardsman traveling back home on a spaceship, with your fellow guardsmen after a five yearlong mission. You are in your living quarters, and you suddenly awaken from your sleep realizing half of your crew is dead and the other half is missing. You then realize that they are being hunted and captured by a figure known as a Chaos Space Marine. To save the rest of your crew and make it back home, you must defeat the Chaos Space Marine in the Command Center. 
+
+To defeat him, first you must retrieve a MAP from the Cafeteria to help you navigate the spaceship. A HELMET from the War Room, ARMOR from the Armory, BOLTER AMMO from the Trophy Room, A GRENADE from the LAB, and a BOLTER GUN from the Captain’s Chambers. If you do not retrieve all these items, the Chaos Space Marine will be too powerful to defeat, and you and your guardsmen will never see home again.
+
+<img width="468" height="197" alt="image" src="https://github.com/user-attachments/assets/81753468-7c79-4876-8f8c-9ab17fb195de" />
